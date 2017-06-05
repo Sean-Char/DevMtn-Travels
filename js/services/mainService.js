@@ -1,5 +1,5 @@
-angular.module('devmtnTravel').service('mainSrv', function(){
-    this.travelInfo = [{
+angular.module('devmtnTravel').service('mainService', function(){
+    this.travelInfos = [{
         country: 'United States',
         image: "../img/US.jpg",
         desc: 'The U.S. is a country of 50 states covering a vast swath of North America. Major Atlantic Coast cities are New York, and capital Washington, DC',
